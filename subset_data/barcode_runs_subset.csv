@@ -1,0 +1,5 @@
+library,sample,date,experiment,antibody,concentration,concentration_units,group,selection,frac_escape,cells_sorted,R1
+lib1,expt_123-129-none-0-reference,210319,expt_123-129,none,0,dilution,B1351,reference,,,/shared/ngs/illumina/agreaney/210323_D00300_1202_BHKH7KBCX3/Unaligned/Project_agreaney/expt_123-129_lib1_ref_*R1*.fastq.gz
+lib2,expt_123-129-none-0-reference,210319,expt_123-129,none,0,dilution,B1351,reference,,,/shared/ngs/illumina/agreaney/210323_D00300_1202_BHKH7KBCX3/Unaligned/Project_agreaney/expt_123-129_lib2_ref_*R1*.fastq.gz
+lib1,expt_128-COV2-2955-400-escape,210319,expt_128,COV2-2955,400,ng_per_mL,Crowe,escape,0.192,2015511.0,/shared/ngs/illumina/agreaney/210323_D00300_1202_BHKH7KBCX3/Unaligned/Project_agreaney/expt_128_lib1_abneg_*R1*.fastq.gz
+lib2,expt_128-COV2-2955-400-escape,210319,expt_128,COV2-2955,400,ng_per_mL,Crowe,escape,0.191,2010148.0,/shared/ngs/illumina/agreaney/210323_D00300_1202_BHKH7KBCX3/Unaligned/Project_agreaney/expt_128_lib2_abneg_*R1*.fastq.gz

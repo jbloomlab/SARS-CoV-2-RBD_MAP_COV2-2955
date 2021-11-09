@@ -1,0 +1,5 @@
+sample_lib,date,experiment,antibody,concentration,selection,cells_sorted,counts all variants,counts SARS-CoV-2 variants,counts:cells all variants,counts:cells SARS-CoV-2 variants
+"expt_123-129-none-0-reference, lib1",210319,expt_123-129,none,0,reference,,3.61e+07,3.58e+07,,
+"expt_123-129-none-0-reference, lib2",210319,expt_123-129,none,0,reference,,3.59e+07,3.56e+07,,
+"expt_128-COV2-2955-400-escape, lib1",210319,expt_128,COV2-2955,400,escape,2015511.0,9.57e+06,9.07e+06,4.746891483102797,4.500730583956129
+"expt_128-COV2-2955-400-escape, lib2",210319,expt_128,COV2-2955,400,escape,2010148.0,9.71e+06,9.26e+06,4.831230834744506,4.604354007764602
