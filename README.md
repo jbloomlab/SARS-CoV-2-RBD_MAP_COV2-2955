@@ -1,7 +1,11 @@
 # Mutational antigenic profiling of SARS-CoV-2 RBD
 Analysis of mutational antigenic profiling of barcoded codon variants of SARS-CoV-2 RBD.
 
-Study and analysis by Allie Greaney, Tyler Starr, [Jesse Bloom](https://research.fhcrc.org/bloom/en.html), and co-authors.
+These data are for the monoclonal antibody COV2-2955, isolated and characterized by Seth Zost in the James Crowe lab, as described in [this paper](https://www.nature.com/articles/s41586-020-2548-6).
+
+The general experimental approach used to generate these data are described in this study by [Greaney et al.](https://www.sciencedirect.com/science/article/pii/S1931312820306247?via%3Dihub).
+
+Study and analysis by Allie Greaney, Tyler Starr, [Jesse Bloom](https://research.fhcrc.org/bloom/en.html).
 
 ## Summary of workflow and results
 For a summary of the workflow and links to key results files, [click here](results/summary/summary.md).
